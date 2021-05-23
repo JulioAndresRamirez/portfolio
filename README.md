@@ -15,30 +15,19 @@
 
 ### ✨ [Demo](www.juliorafre.com)
 
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
 ## Author
 
 👤 **Julio Ramirez De Freitas**
 
-* Website: www.juliorafre.com
-* Twitter: [@juliorafre](https://twitter.com/juliorafre)
-* Github: [@JulioAndresRamirez](https://github.com/JulioAndresRamirez)
-* LinkedIn: [@juliorafre](https://linkedin.com/in/juliorafre)
+- Website: www.juliorafre.com
+- Twitter: [@juliorafre](https://twitter.com/juliorafre)
+- Github: [@JulioAndresRamirez](https://github.com/JulioAndresRamirez)
+- LinkedIn: [@juliorafre](https://linkedin.com/in/juliorafre)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
