@@ -1,23 +1,33 @@
-# Next.js + Tailwind CSS Example
+<h1 align="center">Welcome to Personal Portfolio + Blog 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/juliorafre" target="_blank">
+    <img alt="Twitter: juliorafre" src="https://img.shields.io/twitter/follow/juliorafre.svg?style=social" />
+  </a>
+</p>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+> My personal portfolio. Where you can find my recent works and blogs.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+### 🏠 [Homepage](www.juliorafre.com)
 
-## Deploy your own
+### ✨ [Demo](www.juliorafre.com)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Author
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+👤 **Julio Ramirez De Freitas**
 
-## How to use
+- Website: www.juliorafre.com
+- Twitter: [@juliorafre](https://twitter.com/juliorafre)
+- Github: [@JulioAndresRamirez](https://github.com/JulioAndresRamirez)
+- LinkedIn: [@juliorafre](https://linkedin.com/in/juliorafre)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## Show your support
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+Give a ⭐️ if this project helped you!
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
