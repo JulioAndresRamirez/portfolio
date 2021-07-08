@@ -5,3 +5,24 @@
 ::selection {
     @apply bg-blue-800 text-white
 }
+
+
+.animate__headShake {
+    animation-name: headShake;
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes headShake {
+    0% {
+        transform: rotateZ(-10deg);
+    }
+
+    100% {
+        transform: rotateZ(50deg);
+    }
+}
+
+
