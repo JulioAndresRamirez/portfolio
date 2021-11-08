@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <div className="container mx-auto px-4">
           <div className="grid place-items-center content-center min-h-screen gap-4">
-            {/*<div className="relative rounded-full w-36 h-36 shadow-lg border-2 border-gray-400">
+            {/*<div  className="relative rounded-full w-36 h-36 shadow-lg border-2 border-gray-400">
               <img className="absolute w-full h-full object-cover rounded-full" src="https://avatars.githubusercontent.com/u/19557423?v=4" alt="Perfil"/>
             </div>
             <h5>Thinking...</h5>
